@@ -1,5 +1,5 @@
 document.getElementById('fetchButton').addEventListener('click', async () => {
-    const apiKey = 'TU_API_KEY';
+    const apiKey = '740433cff70f4e499d05b46d710fc336';
     const apiUrl = `https://api.rawg.io/api/games?key=${apiKey}&page_size=5`;
 
     try {
